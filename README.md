@@ -30,3 +30,5 @@ Marketing ran a Q3 cashback campaign for a subset of cardholders. Your team was 
 
 ## ✅ Business Impact
 Enable marketing leadership to reallocate from low-impact segments, increasing ROI in the next cycle. Supports monthly reporting needs with Excel summary for non-technical stakeholders.
+
+![image](https://github.com/user-attachments/assets/7160a8f6-8f50-4b3d-bb64-1a7149e03fc0)
